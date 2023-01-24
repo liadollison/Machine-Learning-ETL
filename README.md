@@ -5,8 +5,8 @@ Here you will find the results of group projects in Machine Learning using Datai
 > 1. Machine Learning PDF
 >> Contains the visualizations carried out for the EDA section and detailing of the steps carried out
 
-> 2. Group 5 Assignment Zip File 
->> Includes the Dataiku DSS project used to achieve both goals and a csv file of the predictions in the format indicated in the Evaluation section of the Kaggle competition 1, with estimated values for the stations ACME, GOOD, and WYNO
+> 2. Any Datasets Data, Predictor Scores, Additional Variables 
+>> The folders include files of the predictors for our stations of interest (ACME, GOOD, and WYNO). The additional variables we included are also listed in their raw format (before preparation in Dataiku).
 
 ## ML Project Description 
 >> In this project we worked with a real-world dataset from the Kaggle platform corresponding to the “AMS 2013-2014 Solar Energy Prediction Contest”. Our two main objectives were to perform Exploratory Data Analysis, EDA, clean data, and data pre-processing steps on the dataset and train a Machine Learning model to try to predict solar energy production of 98 stations using the given dataset. The 98 columns (from 2nd to 99th position) give the real values of solar production recorded in 98 different weather stations. These columns are only informed until 2007-12-31 (row 5113); after this date these 98 columns contain NA or missing values. These missing values are the ones that we predicted for the stations ACME, GOOD, and WYNO using the Machine Learning Model.
