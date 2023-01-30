@@ -3,7 +3,7 @@ Here you will find the results of group projects in Machine Learning using Datai
 
 ## Machine Learning Project File Index
 > 1. Machine Learning PDF
->> Contains the visualizations carried out for the EDA section and detailing of the steps carried out
+>> Contains the visualizations that outline the EDA section of the project and detailing of the steps carried out
 
 > 2. https://drive.google.com/file/d/1k9ImrJ0QJuLJ_DtHGDm-LyMQJ0Hq3RKJ/view?usp=share_link
 >> This is a link to all files associated to the Machine Learning Project. Due to its size, I felt that a google drive provided easier access for the viewer.
